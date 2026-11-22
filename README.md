@@ -19,7 +19,8 @@ Instalujesz tylko raz. Gdy pojawi się nowa wersja, aplikacja pokaże u góry ok
 - Playlisty: wybierasz, które filmy pobrać
 - Wycinanie fragmentu, okładka i tagi, napisy
 - Powiadomienia Windows po zakończeniu pobierania
-- Wygląd Windows 11: efekt Mica, motyw jasny, ciemny, granatowy lub OLED
+- Minimalistyczny wygląd z własnymi ikonami i efektem Mica; motyw jasny, ciemny, granatowy lub OLED
+- Autostart z Windows – aplikacja czeka w tle obok zegara (można wyłączyć w Ustawieniach)
 - Polski i angielski
 
 ---
